@@ -10,7 +10,7 @@ body{
    background: #032a6d;
 }
 .navegacion{
-    width: 800px;
+    width: 1000px;
     margin: 0px auto;
     background: #aeb8e9;
 }
@@ -29,6 +29,7 @@ body{
     text-decoration: none;
     border-radius: 10px;
     background-color: #032a6d;
+    width: 250px;
 }
 .menu > li > a:hover{
     color: #19e9e9;
@@ -38,7 +39,7 @@ body{
 .submenu{
     position: absolute;
     background: #333333;
-    width: 200px;
+    width: 250px;
     visibility: hidden;
     opacity: 0;
     transition: opacity 1.5s;
